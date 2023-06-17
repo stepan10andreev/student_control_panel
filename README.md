@@ -1,4 +1,7 @@
-# student_control_panel
+# Панель управления студентами
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width='30'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width='30'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width='30'/>
+
 Панель управления студентами:  таблица со студентами с фильтрами и сортировкой, формой добавления нового студента. Реализовано с использвоанием API сервера.
 Имеется возможность сохранения списка студентов и удаления студентов из списка на сервере (папка «backend» для запуска сервера с файлом README и с документацией по работе с сервером).
 При запуске сервера в приложении выполняется проверка на наличие данных на сервере. Если данные есть, то выводится список студентов на экран. 
